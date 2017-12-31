@@ -1,0 +1,20 @@
+{
+  "name": "yison/hash-id",
+  "type": "library",
+  "description": "Conceal DB id and reversible.",
+  "authors": [
+    {
+      "name": "Yison Zhao",
+      "email": "yisonzhao@gmail.com",
+      "homepage": "https://yison.org"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Yison\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.0"
+  }
+}
